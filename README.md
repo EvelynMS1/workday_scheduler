@@ -2,7 +2,7 @@
 
 ## Description
 
-The inspiration behind building this application was mainly for the convenience of a helpful application; collectively storing and the ability of writing down a set of planner activities. I built this project for refining my problem solving in that it allowed for me to use new techniques and skills in a way that would be efficient and logical. The problem that this application solves is having an advantageous feature of time blocking and color coordinating the day for planning purposes. Providing a personal resourceful tool. In the undertaking of this project, I was capable of employing DOM traversal, along with the utilization of the Window Object. As well as having an understanding of event bubbling for the use of event handling, plus the utilizing of Local Storage.
+The inspiration behind building this application was mainly for the convenience of a helpful application; collectively storing user information for planning. I built this project for refining my problem solving skills in that it allowed for me to use new techniques and skills in a way that would be efficient and logical. The problem that this application solves is having an advantageous feature of time blocking and color coordinating the day for planning purposes. Providing a personal resourceful tool. In the undertaking of this project, I was capable of employing DOM traversal, along with the utilization of the Window Object. As well as having an understanding of event bubbling for the use of event handling, plus the utilizing of Local Storage.
 
 ## Table of Contents
 
